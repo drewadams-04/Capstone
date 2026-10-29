@@ -1,0 +1,4 @@
+Update symbol D2 from 'Device:D_Schottky' to 'Device:D_Schottky': OK
+Update symbol D3 from 'Device:D_Schottky' to 'Device:D_Schottky': OK
+Update symbol D4 from 'Device:D_Schottky' to 'Device:D_Schottky': OK
+Update symbol D1 from 'Device:D_Schottky' to 'Device:D_Schottky': OK
